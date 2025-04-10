@@ -1,0 +1,3 @@
+Pepe Pérez;6;7;3;4
+Ana García;4;8
+Carlos Gómez Álvarez;6;7;2;9
